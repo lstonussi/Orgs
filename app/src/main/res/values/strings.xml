@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Orgs</string>
+    <string name="saveBtn">Salvar</string>
+    <string name="priceEdt">Preço</string>
+    <string name="descriptionEdt">Descrição</string>
+    <string name="nameEdt">Nome</string>
+</resources>
